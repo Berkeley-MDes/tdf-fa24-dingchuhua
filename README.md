@@ -2,7 +2,9 @@
 Welcome to your new GitHub repository! 
 
 # Outline
-[week 1](README.md#week-1-example-report-1)
+[week 1 example](README.md#week-1-example-report-1)
+
+[week 1](README.md#week-1-eport)
 
 week 2, etc...
 
@@ -47,9 +49,11 @@ PPS:
 ## Week of 08/29/2024
 
 This week, I have learned how to edit and use the file on github.
+
 Besides, I have installed Rhino and opend the file on Google Drive successfully
 
-<assets/Week1_01.png>
+<img width="200" alt="Week1_01" src="assets/Week1_01.png">
+<img width="200" alt="Week1_02" src="assets/Week1_02.png">
 ---
 
 
