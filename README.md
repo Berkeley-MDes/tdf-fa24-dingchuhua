@@ -49,6 +49,7 @@ PPS:
 This week, I have learned how to edit and use the file on github.
 Besides, I have installed Rhino and opend the file on Google Drive successfully
 
+<assets/Week1_01.png>
 ---
 
 
