@@ -6,8 +6,6 @@ Welcome to your new GitHub repository!
 
 [week 1](README.md#week-1-report)
 
-week 2, etc...
-
 ---
 
 # Github Background Information & Context
