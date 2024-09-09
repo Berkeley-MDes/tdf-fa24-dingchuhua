@@ -55,16 +55,18 @@ Besides, I have installed Rhino and opend the file on Google Drive successfully
 
 ---
 
-# Week 1: Report #
-## Week of 08/29/2024
+# Week 2: Report #
+## Week of 09/12/2024
 
 This week, 
 
 1.Make diagrams of the example files shared
 
-<img width="800" alt="Week2 01" src="assets/Week2 01.png">
+<img width="500" alt="Week2 02" src="assets/Week2 02.png">
 
 2.Experiment with the files shared, manipulate the parameters and ‘bake’ some forms and generating your own basic model of a form using Grasshopper.
+
+<img width="500" alt="Week2 01" src="assets/Week2 01.png"> <img width="500" alt="Week2 03" src="assets/Week2 03.png">
 
 ---
 
