@@ -62,5 +62,9 @@ This week,
 
 1.Make diagrams of the example files shared
 
+<img width="800" alt="Week2 01" src="assets/Week2 01.png">
+
 2.Experiment with the files shared, manipulate the parameters and ‘bake’ some forms and generating your own basic model of a form using Grasshopper.
+
+---
 
