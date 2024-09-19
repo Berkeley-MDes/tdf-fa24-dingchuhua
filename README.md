@@ -77,8 +77,7 @@ This week,
 
 Although I had some prior experience with Grasshopper, this was my first attempt at such a project. The code in the image simplifies the original complex setup into a single Python component, ensuring absolute randomness in the data every time it runs. The logic in Python mirrors that in Grasshopper; I wrote functions in Python to generate cubes, select random points, create spheres with random radii, and perform Boolean operations between cubes and rectangular prisms. Of course, I also received some help from ChatGPT during this process.
 
-There are clearer videos on YouTube.:[https://youtu.be/Jvf5CLIVpYE](https://github.com/Berkeley-MDes/tdf-fa24-dingchuhua/edit/main/README.md)
-
+There are clearer videos on YouTube.: https://www.youtube.com/watch?v=DnZai46PktM
 <video width="500" alt="Week2 02" src="assets/TDF Project01YS">
 
 
