@@ -70,3 +70,17 @@ This week,
 
 ---
 
+# Week 3: Report #
+## Week of 09/18/2024
+
+ During the modification process, I also experimented with Perlin noise to add randomness to the data, and used genetic algorithms to find the minimal volume solution within a certain range. However, during these attempts, I discovered that the random function component in Grasshopper does not produce true randomness. Strictly speaking, it’s not a real random number, as the data generated is the same for each seed value. This led me to wonder whether it’s possible to achieve truly random numbers. So, I decided to integrate all the form components using Python code.
+
+Although I had some prior experience with Grasshopper, this was my first attempt at such a project. The code in the image simplifies the original complex setup into a single Python component, ensuring absolute randomness in the data every time it runs. The logic in Python mirrors that in Grasshopper; I wrote functions in Python to generate cubes, select random points, create spheres with random radii, and perform Boolean operations between cubes and rectangular prisms. Of course, I also received some help from ChatGPT during this process.
+
+There are clearer videos on YouTube.:https://youtu.be/Jvf5CLIVpYE
+
+<video width="500" alt="Week2 02" src="assets/TDF Project01YS">
+
+
+---
+
