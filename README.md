@@ -85,8 +85,8 @@ There are clearer videos on YouTube.: https://www.youtube.com/watch?v=DnZai46Pkt
 # Week 4: Report #
 ## Week of 09/26/2024
 
-
-
+This week I have learned some knowledge about photon2 and successfully intalled the IDE. Beseides, I have drawn the concept map of the Interaction Ecosystems of Apple watch, illustrating how its running function works.  
+<img width="500" alt="Week2 01" src="assets/Week4.png"> 
 
 ---
 
