@@ -6,6 +6,8 @@ Welcome to your new GitHub repository!
 
 [week 1](README.md#week-1-report)
 
+[week 2](README.md#week-2-report)
+
 ---
 
 # Github Background Information & Context
@@ -90,7 +92,7 @@ This week I have learned some knowledge about photon2 and successfully intalled 
 
 ---
 
-# Week 5: Report 01#
+# Week 5: Report 01 #
 ## Week of 09/30/2024
 
 I have tried and flashed three scripts at home.They are: 01 serial port display showing 'hello world' separately; 02 strobe light; 03 using an ultrasonic sensor to measure distance and trigger the light.
@@ -106,3 +108,12 @@ In script 02, I added led lights to the board and set the interval for the light
 In script 03, I introduced an ultrasonic sensor into the circuit to set the light bulb to light up when the object got close enough.
 
 <img width="500" alt="Week3 01" src="assets/Week5_03.png"> <img width="250" alt="Week3 01" src="assets/Wee5_03_1.jpg"> 
+
+I think the operation is very similar to arduino. photon2 is like the brain of the entire system and is controlled by code, the wires and breadboards are like the blood in the system, and the various sensors and light bulbs are like organs.
+
+What I think is missing in life is an ecosystem based on stable feedback, and ecosystems in life are generally more fragile.
+
+Failure and experience: Because I am not familiar with the IDE environment, I created two cpp files at the beginning, resulting in the inability to burn the code into the MCU, and I am not familiar enough with the C language code, or I need to learn more in the future
+
+
+
