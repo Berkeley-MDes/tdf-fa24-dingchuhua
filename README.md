@@ -90,3 +90,19 @@ This week I have learned some knowledge about photon2 and successfully intalled 
 
 ---
 
+# Week 5: Report 01#
+## Week of 09/30/2024
+
+I have tried and flashed three scripts at home.They are: 01 serial port display showing 'hello world' separately; 02 strobe light; 03 using an ultrasonic sensor to measure distance and trigger the light.
+
+In script 01, I changed the interval at which each letter appears.
+
+<img width="500" alt="Week2 01" src="assets/Week5_01.png"> 
+
+In script 02, I added led lights to the board and set the interval for the lights to blink to 1 second.
+
+<img width="500" alt="Week2 01" src="assets/Week5_02.png"> <img width="500" alt="Week2 01" src="assets/Week5_02_1.jpg"> 
+
+In script 03, I introduced an ultrasonic sensor into the circuit to set the light bulb to light up when the object got close enough.
+
+<img width="500" alt="Week3 01" src="assets/Week5_03.png"> <img width="500" alt="Week3 01" src="assets/Week5_03_1.jpg"> 
