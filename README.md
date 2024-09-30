@@ -8,6 +8,12 @@ Welcome to your new GitHub repository!
 
 [week 2](README.md#week-2-report)
 
+[week 3](README.md#week-3-report)
+
+[week 4](README.md#week-4-report)
+
+[week 5 01](README.md#week-5-report-01)
+
 ---
 
 # Github Background Information & Context
