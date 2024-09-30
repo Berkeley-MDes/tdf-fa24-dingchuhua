@@ -105,4 +105,4 @@ In script 02, I added led lights to the board and set the interval for the light
 
 In script 03, I introduced an ultrasonic sensor into the circuit to set the light bulb to light up when the object got close enough.
 
-<img width="500" alt="Week3 01" src="assets/Week5_03.png"> <img width="500" alt="Week3 01" src="assets/Week5_03_1.jpg"> 
+<img width="500" alt="Week3 01" src="assets/Week5_03.png"> <img width="250" alt="Week3 01" src="assets/Wee5_03_1.jpg"> 
