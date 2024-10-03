@@ -14,6 +14,8 @@ Welcome to your new GitHub repository!
 
 [week 5 01](README.md#week-5-report-01)
 
+[week 5 02](README.md#week-5-report-02)
+
 ---
 
 # Github Background Information & Context
@@ -120,6 +122,28 @@ I think the operation is very similar to arduino. photon2 is like the brain of t
 What I think is missing in life is an ecosystem based on stable feedback, and ecosystems in life are generally more fragile.
 
 Failure and experience: Because I am not familiar with the IDE environment, I created two cpp files at the beginning, resulting in the inability to burn the code into the MCU, and I am not familiar enough with the C language code, or I need to learn more in the future
+
+---
+
+# Week 5: Report 02 #
+## Week of 10/03/2024
+
+<img width="300" alt="Week2 01" src="assets/Week5_04_1.png"> <img width="300" alt="Week2 01" src="assets/Wee5_04_2.jpg"> <img width="300" alt="Week2 01" src="assets/Wee5_04_3.jpg"> 
+
+<img width="300" alt="Week2 01" src="assets/Week5_05_1.png"> <img width="300" alt="Week2 01" src="assets/Week5_05_2.jpg">
+
+<img width="300" alt="Week2 01" src="assets/Week5_06_1.png"> <img width="300" alt="Week2 01" src="assets/Week5_06_2.jpg">
+
+Differance: They have used more complex componet.
+
+Similarity: They all based on the same logic: the sensor get the feedback and the whole system reflects the feedback like light flashing
+
+Feature: The system will respond to the stimulus, which would be very useful in our daily lives.
+
+ Machine Learning could improve the wany and accurancy the whole system reacts.
+
+ I think many differant sensors and script logic could be intergrated into one system, making it respond to many kinds of stimulus.
+
 
 
 
