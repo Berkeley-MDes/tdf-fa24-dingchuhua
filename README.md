@@ -16,6 +16,8 @@ Welcome to your new GitHub repository!
 
 [week 5 02](README.md#week-5-report-02)
 
+[week 6 01](README.md#week-5-report-02)
+
 ---
 
 # Github Background Information & Context
@@ -143,6 +145,19 @@ Feature: The system will respond to the stimulus, which would be very useful in 
  Machine Learning could improve the wany and accurancy the whole system reacts.
 
  I think many differant sensors and script logic could be intergrated into one system, making it respond to many kinds of stimulus.
+
+ ---
+
+# Week 6: Report 01 #
+## Week of 10/07/2024
+
+I opened two files but they both have problems. And I have tried to reinstalled the library, it still have errors. I am still trying to work it out.
+
+<img width="600" alt="Week2 01" src="assets/Week6_01.png"> <img width="275" alt="Week2 01" src="assets/Week6_01_2.jpg">
+
+<img width="600" alt="Week2 01" src="assets/Week6_02.png"> <img width="200" alt="Week2 01" src="assets/Week6_02_2.jpg">
+
+ 
 
 
 
