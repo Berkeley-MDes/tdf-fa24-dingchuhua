@@ -16,7 +16,7 @@ Welcome to your new GitHub repository!
 
 [week 5 02](README.md#week-5-report-02)
 
-[week 6 01](README.md#week-5-report-02)
+[week 6 01](README.md#week-6-report-01)
 
 ---
 
