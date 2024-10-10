@@ -157,7 +157,13 @@ I opened two files but they both have problems. And I have tried to reinstalled 
 
 <img width="600" alt="Week2 01" src="assets/Week6_02.png"> <img width="200" alt="Week2 01" src="assets/Week6_02_2.jpg">
 
- 
+---
+
+# Week 6: Report 02 #
+## Week of 10/10/2024
+
+I have started a team named Fuller with my classmate and completed the project proposal.
+
 
 
 
