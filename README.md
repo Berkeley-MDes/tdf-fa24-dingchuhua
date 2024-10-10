@@ -18,6 +18,8 @@ Welcome to your new GitHub repository!
 
 [week 6 01](README.md#week-6-report-01)
 
+[week 6 02](README.md#week-6-report-02)
+
 ---
 
 # Github Background Information & Context
@@ -164,7 +166,7 @@ I opened two files but they both have problems. And I have tried to reinstalled 
 
 I have started a team named Fuller with my classmate and completed the project proposal.
 
-
+<img width="600" alt="Week2 01" src="assets/Week6_03.png"> 
 
 
 
