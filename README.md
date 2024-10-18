@@ -168,5 +168,12 @@ I have started a team named Fuller with my classmate and completed the project p
 
 <img width="600" alt="Week2 01" src="assets/Week6_03.png"> 
 
+---
+
+# Week 7: Report #
+## Week of 10/17/2024
+Along with my teammate Qin Tian, we have accomplished most experiments in the proposal, such as LED Light; Ambient Light Sensor; STEMMA QT-based sensors and so on
+
+
 
 
