@@ -20,6 +20,8 @@ Welcome to your new GitHub repository!
 
 [week 6 02](README.md#week-6-report-02)
 
+[week 7](README.md#week-7-report)
+
 ---
 
 # Github Background Information & Context
@@ -174,6 +176,7 @@ I have started a team named Fuller with my classmate and completed the project p
 ## Week of 10/17/2024
 Along with my teammate Qin Tian, we have accomplished most experiments in the proposal, such as LED Light; Ambient Light Sensor; STEMMA QT-based sensors and so on
 
-
+<img width="600" alt="Week2 01" src="assets/Week7_01.jpg"> <img width="600" alt="Week2 01" src="assets/Week7_02.png"> 
+<img width="600" alt="Week2 01" src="assets/Week7_03.png"> <img width="600" alt="Week2 01" src="assets/Week7_04.png"> 
 
 
