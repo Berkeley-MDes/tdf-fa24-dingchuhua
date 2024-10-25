@@ -179,4 +179,13 @@ Along with my teammate Qin Tian, we have accomplished most experiments in the pr
 <img width="600" alt="Week2 01" src="assets/Week7_01.jpg"> <img width="600" alt="Week2 01" src="assets/Week7_02.png"> 
 <img width="600" alt="Week2 01" src="assets/Week7_03.png"> <img width="600" alt="Week2 01" src="assets/Week7_04.png"> 
 
+---
+
+# Week 8: Report #
+## Week of 10/24/2024
+Along with my teammate Qin Tian, we have finished our project.
+<img width="600" alt="Week2 01" src="assets/Week8_01.png"> 
+<img width="600" alt="Week2 01" src="assets/Week8_02.png"> 
+<img width="600" alt="Week2 01" src="assets/Week8_03.png"> 
+
 
