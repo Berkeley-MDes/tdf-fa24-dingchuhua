@@ -190,4 +190,12 @@ Along with my teammate Qin Tian, we have finished our project.
 <img width="600" alt="Week2 01" src="assets/Week8_02.png"> 
 <img width="600" alt="Week2 01" src="assets/Week8_03.png"> 
 
+---
+
+# Week 9: Report #
+## Week of 10/31/2024
+This week I have learnt how to build a LLM agent based on zerowidth and watched the whole tutorial posetd by TJ
+<img width="600" alt="Week2 01" src="assets/Week9_01.png"> 
+<img width="600" alt="Week2 01" src="assets/Week9_02.png"> 
+
 
