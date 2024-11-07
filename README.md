@@ -200,4 +200,12 @@ This week I have learnt how to build a LLM agent based on zerowidth and watched 
 <img width="600" alt="Week2 01" src="assets/week9_01.png"> 
 <img width="600" alt="Week2 01" src="assets/week9_02.png"> 
 
+---
+
+# Week 10: Report #
+## Week of 11/07/2024
+This week I have successfully built my database and make the GPT answer my questions correctly. Besides, I have finished the project report and presentation vedio.
+<img width="600" alt="Week2 01" src="assets/week9_01.png"> 
+<img width="600" alt="Week2 01" src="assets/week9_02.png"> 
+
 
