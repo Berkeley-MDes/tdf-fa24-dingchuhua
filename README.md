@@ -28,6 +28,8 @@ Welcome to your new GitHub repository!
 
 [week 10](README.md#week-10-report)
 
+[week 11](README.md#week-11-report)
+
 ---
 
 # Github Background Information & Context
@@ -219,7 +221,6 @@ Besides, I have finished the project report and presentation vedio.
 This week, I have finished my report of Mini me. In the 5 experiments required in the report, I have asked them 40 questions in total.  
 
 Besides, I have finished the project report and presentation vedio.
-<img width="600" alt="Week2 01" src="assets/week10_01.png"> 
-<img width="600" alt="Week2 01" src="assets/week10_02.png"> 
+<img width="600" alt="Week2 01" src="assets/Week11_01.png"> <img width="600" alt="Week2 01" src="assets/Week11_02.png"> 
 
 
