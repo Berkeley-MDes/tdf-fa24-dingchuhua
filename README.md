@@ -212,4 +212,14 @@ Besides, I have finished the project report and presentation vedio.
 <img width="600" alt="Week2 01" src="assets/week10_01.png"> 
 <img width="600" alt="Week2 01" src="assets/week10_02.png"> 
 
+---
+
+# Week 11: Report #
+## Week of 11/14/2024
+This week, I have finished my report of Mini me. In the 5 experiments required in the report, I have asked them 40 questions in total.  
+
+Besides, I have finished the project report and presentation vedio.
+<img width="600" alt="Week2 01" src="assets/week10_01.png"> 
+<img width="600" alt="Week2 01" src="assets/week10_02.png"> 
+
 
