@@ -219,8 +219,17 @@ Besides, I have finished the project report and presentation vedio.
 # Week 11: Report #
 ## Week of 11/14/2024
 This week, I have finished my report of Mini me. In the 5 experiments required in the report, I have asked them 40 questions in total.  
+By doing this project, I have a basic understanding of how LLM works, and I have successfully built my own database and made the GPT answer my question based on the database. In the future, I think I would like to explore more functions GPT can accomplish.
 
-Besides, I have finished the project report and presentation vedio.
+■Human experiences, what might be different about cultural expectations of the Anthropogenic
+Environment?
+Cultural expectations of the Anthropogenic Environment likely differ in values placed on nature, technology, and sustainability. Societies may prioritize resource use, conservation, or development differently, affecting how they shape, use, and respond to human-made environments.
+■ Engineering, what might be different about cultural expectations of what and how we make
+things?
+Cultural expectations in engineering vary by values on functionality, aesthetics, sustainability, and social impact. Different cultures may prioritize durability, efficiency, eco-friendliness, or local identity in both the design and production processes.
+■ What roles might AI play in architecture design?
+AI can assist in architectural design by optimizing layouts, generating creative concepts, enhancing energy efficiency, automating repetitive tasks, and simulating environmental impacts, allowing architects to focus on innovation and complex problem-solving.
+
 <img width="600" alt="Week2 01" src="assets/Week11_01.png"> <img width="600" alt="Week2 01" src="assets/Week11_02.png"> 
 
 
