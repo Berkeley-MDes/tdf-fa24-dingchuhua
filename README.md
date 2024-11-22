@@ -232,4 +232,9 @@ AI can assist in architectural design by optimizing layouts, generating creative
 
 <img width="600" alt="Week2 01" src="assets/Week11_01.png"> <img width="600" alt="Week2 01" src="assets/Week11_02.png"> 
 
+---
 
+# Week 12: Report #
+## Week of 11/22/2024
+This week, I teamed up with Josh and Yule, and finieshed the proposal for final project - Snackbox.
+Besides, I have bought some extra components from Amazon to test.
