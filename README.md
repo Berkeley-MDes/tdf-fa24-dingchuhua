@@ -30,6 +30,8 @@ Welcome to your new GitHub repository!
 
 [week 11](README.md#week-11-report)
 
+[week 12](README.md#week-12-report)
+
 ---
 
 # Github Background Information & Context
@@ -238,3 +240,5 @@ AI can assist in architectural design by optimizing layouts, generating creative
 ## Week of 11/22/2024
 This week, I teamed up with Josh and Yule, and finieshed the proposal for final project - Snackbox.
 Besides, I have bought some extra components from Amazon to test.
+
+<img width="600" alt="Week2 01" src="assets/Week12_01.png"> <img width="600" alt="Week2 01" src="assets/Week12_02.png"> <img width="600" alt="Week2 01" src="assets/Week12_03.png"> 
