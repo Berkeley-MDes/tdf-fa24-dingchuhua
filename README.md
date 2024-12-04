@@ -32,6 +32,7 @@ Welcome to your new GitHub repository!
 
 [week 12](README.md#week-12-report)
 
+[week 13](README.md#week-13-report)
 ---
 
 # Github Background Information & Context
@@ -248,4 +249,4 @@ Besides, I have bought some extra components from Amazon to test.
 # Week 13: Report #
 ## Week of 12/05/2024
 This week, I was conducting circuit tests but found that the motor-driven air pump could not reverse its direction. I tried several other motors, but their performance was not ideal. Finally, I decided to use two separate pumps for control, one for blowing air and the other for inflating. Additionally, I completed the design of the snack box's appearance and internal structure this week and am currently using a 3D printer to print them. Due to the limited number of printers available in the college, it will still take some time to finish the printing process.
-<img width="600" alt="Week2 01" src="assets/Week12_01.png"> <img width="600" alt="Week2 01" src="assets/Week12_02.png"> <img width="600" alt="Week2 01" src="assets/Week12_03.png"> 
+<img width="600" alt="Week2 01" src="assets/Week13_01.png"> <img width="600" alt="Week2 01" src="assets/Week13_02.png">
